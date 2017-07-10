@@ -1,4 +1,4 @@
-description: 'Displays current rest resource for the application'
+description: 'Display current rest resource for the application'
 arguments:
     resource-id: 'Rest ID'
 options:

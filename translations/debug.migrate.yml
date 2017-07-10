@@ -1,4 +1,4 @@
-description: 'Displays current migration available for the application'
+description: 'Display current migration available for the application'
 arguments:
     tag: 'Migrate tag'
 messages:
