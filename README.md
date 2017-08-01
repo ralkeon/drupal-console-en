@@ -20,7 +20,7 @@ $ composer require drupal/console:~1.0 --prefer-dist --optimize-autoloader
 In order to avoid conflicts between Drupal release and have a Drupal Console version between major and minor releases in Drupal,  a Drupal Console launcher was created. In order to facilitate to load the Drupal Console commands available to each
 Drupal 8 website,
  
-Following the instruction below you could install the global application for Drupal Console launcher. 
+To install Drupal Console launcher globally follow the instruction below. 
 
 ```
 $ curl https://drupalconsole.com/installer -L -o drupal.phar
