@@ -32,7 +32,7 @@ examples:
       drupal generate:plugin:block  \
         --module="modulename"  \
         --class="DefaultBlock"  \
-        --label="Default block"  \
+        --plugin-label="Default block"  \
         --plugin-id="default_block"  \
         --theme-region="header"  \
         --inputs='"name":"inputtext", "type":"text_format", "label":"InputText", "options":"", "description":"Just an input text", "maxlength":"", "size":"", "default_value":"", "weight":"0", "fieldset":""'
